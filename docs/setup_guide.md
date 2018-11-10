@@ -68,6 +68,8 @@ configure a Google Cloud Platform project:
 
         **WARNING:** Do not lose or share this private key file, as it allows
         access to your G Suite domain user data through the service account.
+        In the event that the private key file does get shared, promptly return
+        to the Cloud Developers Console to revoke and reissue the key.
 
         Once you have created a service account and downloaded its JSON-encoded
         private key, you can move on to the next step.
